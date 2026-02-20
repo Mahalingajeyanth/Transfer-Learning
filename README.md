@@ -105,7 +105,8 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="884" height="571" alt="Screenshot 2026-02-13 213249" src="https://github.com/user-attachments/assets/3b48297e-75ea-4641-b734-f94cdb6377e8" />
+<img width="863" height="610" alt="image" src="https://github.com/user-attachments/assets/d44dd1d5-41bd-496e-b33a-7cd0d457483b" />
+
 
 
 ### Confusion Matrix
